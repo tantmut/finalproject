@@ -1,0 +1,5 @@
+1) Bidirectional from Advertisement to Author
+2) Constructors
+3) @Column for ids
+4) Correct fields on Address domain
+5)
